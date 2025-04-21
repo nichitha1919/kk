@@ -1,0 +1,35 @@
+li{
+    background-color: burlywood;
+}
+span{
+    background-color: aqua;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+h2{
+    color: brown;
+    font-size: 40px;
+    background-color: blue;
+
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+*{
+    color: burlywood;
+}
+#heading{
+    color: blueviolet;
+    background-color: orangered;
+}
+.anurag{
+    color: aquamarine;
+    font-size: 20px;
+    font-weight: 600;
+}
+.myimage{
+    height: 100px;
+    width: 100px;
+}
